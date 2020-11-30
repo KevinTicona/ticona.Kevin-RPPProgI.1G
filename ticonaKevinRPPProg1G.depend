@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606775222 source:c:\users\keni_\desktop\ticonakevinrpprog1g\ticonakevinrppprog1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
