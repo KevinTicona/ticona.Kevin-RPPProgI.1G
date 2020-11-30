@@ -82,7 +82,7 @@ int reemplazarCaracter(char* cadena, char caracterA, char caracterB )
     {
         if(cadena[i] == caracterA)
         {
-            strcpy(cadena[i],caracterB);
+            cadena[i] = caracterB;
             contarCaracter++;
         }
     }
